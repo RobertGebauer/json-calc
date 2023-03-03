@@ -1,3 +1,5 @@
+[![Node.js Build & Test](https://github.com/RobertGebauer/json-calc/actions/workflows/node.js.yml/badge.svg)](https://github.com/RobertGebauer/json-calc/actions/workflows/node.js.yml)
+
 # json-calc
 
 Program that calculates with numbers of given JSON objects either from command line of in the source of your project. It can summarize all fields of all objects. Currently, only addition is supported but some more calculation will follow. Shouldn't be too complicated.
