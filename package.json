@@ -1,0 +1,29 @@
+{
+  "name": "json-calc",
+  "version": "0.0.9",
+  "description": "Reads JSON array from stdin and summarizes values of each field.",
+  "bin": {
+    "json-calc": "./src/app.js"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertGebauer/json-calc.git"
+  },
+  "author": "Robert Gebauer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobertGebauer/json-calc/issues"
+  },
+  "homepage": "https://github.com/RobertGebauer/json-calc#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "yargs": "^17.7.1"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
