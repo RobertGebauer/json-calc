@@ -1,5 +1,5 @@
 {
-  "name": "json-calc",
+  "name": "@robertgebauer/json-calc",
   "version": "0.0.9",
   "description": "Reads JSON array from stdin and summarizes values of each field.",
   "bin": {
